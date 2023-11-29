@@ -1,0 +1,26 @@
+nav{
+    background: #eeebeb;
+    text-align: center;
+    padding: 10px;
+}
+
+nav li{
+    display: grid;
+    margin: 0 15px 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+.titulo-principal{
+    font-size: 30px;
+    text-align: center;
+}
+.texto1{
+    font-size: 30px;
+    text-align: center;
+}
